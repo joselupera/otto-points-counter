@@ -1,2 +1,2 @@
-# OttopointsCounter
-contador publico de otto points
+# OttoPointsCounter
+Contador de Otto Points en Sofka
